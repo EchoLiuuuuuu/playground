@@ -1,13 +1,24 @@
 {
     "id": "30250566",
-    "type": "analytics",
+    "type": "document",
     "metadata_information": {
         "title": "Metadata for Country Private Sector Diagnostics: Ghana"
     },
-    "series_description": {
-        "name": "Creating markets in Ghana : country private sector diagnostic",
-        "date_last_update": "2017-11-01",
-        "definition_long": "The objective of the Ghana Country Private Sector Diagnostic (CPSD) is to identify the main opportunities for the private sector that will have a strong development impact in Ghana and to highlight the key constraints (both cross-cutting and sector-specific) hampering private sector growth. The CPSD consists of a systematic assessment of all of Ghana\u2019s economic sectors along two dimensions: (a) desirability: how private investments in these sectors could help Ghana to address its development challenges; and (b) expected feasibility: how the constraints standing in the way could be removed. This sector scan led to identification seven priority sectors, of which, three were selected to conduct deep dive studies: namely agribusiness, ICT and education.Four main opportunities exist for the private sector to make a major contribution by creating markets in Ghana. First, the private sector can help to develop new high-value export markets, such as horticulture and ICT-enabled services, in which Ghana is already well positioned. Second, the private sector can leverage ICT to improve the performance of Ghana\u2019s most important sectors, including for improving government activities and services. Third, the private sector can help to promote efficiency and innovation in the key social sectors of education and health. Fourth, the private sector can play an important role in helping to address the main cross-cutting constraints, such as facilitating trade, providing competitive green energy, opening rural land markets, developing technical skills, and financing promising small and medium enterprises (SMEs).There are fewer opportunities for transformative private sector investments in the other sectors (mining, tourism, retail, construction, water and sanitation, and manufacturing).Ghana can seize these opportunities through a mix of public and private interventions:The government should pursue essential economic reforms to resolve the energy crisis by reforming the regulatory framework for electricity tariffs; facilitating trade, through customs reforms and the Ghana Community Network Systems;These reforms would pave the way for the private sector to invest in projects with a high development impact, including through large firms. Such opportunities already exist in Ghana in the three priority sectors of ICT, agribusiness and education that are reviewed in this report.The government should also consider supporting the entry of \u2018pioneer\u2019 investors, which are often in the form of foreign direct investment (FDI).Supporting promising SMEs will also be critical, especially during their acceleration phase.This could be achieved through a combination of public financing and capacity building, technical support adapted to the sector in which they operate, and risk-sharing and mezzanine finance facilities. Similar to the pioneer investors, such support should be provided in an inclusive, transparent and competitive manner. Examples of promising SMEs were found in all three deep-dive sectors.",
+    "document_description": {
+        "title_statement": {
+            "idno": "EA_CPSD_30250566",
+            "title": "Creating markets in Ghana : country private sector diagnostic"
+        },
+        "url": "http://documents.worldbank.org/curated/en/536511531311975214",
+        "type": "Economy analytics",
+        "relations": [
+        {
+            "name": "EA_CPSD",
+            "type": "Series"
+        }
+        ],
+        "date_modified": "2017-11-01",
+        "description": "The objective of the Ghana Country Private Sector Diagnostic (CPSD) is to identify the main opportunities for the private sector that will have a strong development impact in Ghana and to highlight the key constraints (both cross-cutting and sector-specific) hampering private sector growth. The CPSD consists of a systematic assessment of all of Ghana\u2019s economic sectors along two dimensions: (a) desirability: how private investments in these sectors could help Ghana to address its development challenges; and (b) expected feasibility: how the constraints standing in the way could be removed. This sector scan led to identification seven priority sectors, of which, three were selected to conduct deep dive studies: namely agribusiness, ICT and education.Four main opportunities exist for the private sector to make a major contribution by creating markets in Ghana. First, the private sector can help to develop new high-value export markets, such as horticulture and ICT-enabled services, in which Ghana is already well positioned. Second, the private sector can leverage ICT to improve the performance of Ghana\u2019s most important sectors, including for improving government activities and services. Third, the private sector can help to promote efficiency and innovation in the key social sectors of education and health. Fourth, the private sector can play an important role in helping to address the main cross-cutting constraints, such as facilitating trade, providing competitive green energy, opening rural land markets, developing technical skills, and financing promising small and medium enterprises (SMEs).There are fewer opportunities for transformative private sector investments in the other sectors (mining, tourism, retail, construction, water and sanitation, and manufacturing).Ghana can seize these opportunities through a mix of public and private interventions:The government should pursue essential economic reforms to resolve the energy crisis by reforming the regulatory framework for electricity tariffs; facilitating trade, through customs reforms and the Ghana Community Network Systems;These reforms would pave the way for the private sector to invest in projects with a high development impact, including through large firms. Such opportunities already exist in Ghana in the three priority sectors of ICT, agribusiness and education that are reviewed in this report.The government should also consider supporting the entry of \u2018pioneer\u2019 investors, which are often in the form of foreign direct investment (FDI).Supporting promising SMEs will also be critical, especially during their acceleration phase.This could be achieved through a combination of public financing and capacity building, technical support adapted to the sector in which they operate, and risk-sharing and mezzanine finance facilities. Similar to the pioneer investors, such support should be provided in an inclusive, transparent and competitive manner. Examples of promising SMEs were found in all three deep-dive sectors.",
         "topics": [
             {
                 "id": "P3",
@@ -51,24 +62,11 @@
                 "vocabulary": "Data360 Topic L2"
             }
         ],
-        "links": [
-            {
-                "type": "Country Report",
-                "description": null,
-                "uri": "http://documents.worldbank.org/curated/en/536511531311975214"
-            }
-        ],
         "ref_country": [
             {
                 "name": "Ghana",
                 "code": "GHA"
             }
         ]
-    },
-    "product": {
-        "name": "Country Private Sector Diagnostics",
-        "code": "CPSD",
-        "type": "Core",
-        "description": "The Country Private Sector Diagnostic (CPSD) reports seek to unlock private investment and job creation through policy action. Prepared jointly by the IFC Country Economics & Engagement Department in close collaboration with the World Bank's Finance, Competitiveness & Innovation Global Practice, each report provides an analysis of specific sectors of the economy in which private sector investment could accelerate growth, if appropriate policy and regulatory issues are addressed. Designed from the perspective of an investor or entrepreneur, CPSDs seek to identify untapped private investment opportunities and the barriers that stand in their way. Please more information, please refer to: https://www.ifc.org/en/insights-reports/private-sector-diagnostic"
     }
 }
